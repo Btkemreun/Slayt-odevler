@@ -1,0 +1,22 @@
+#container {
+
+margin: auto;
+max-width: 960px;
+padding: 20px;
+border: 2px solid gray;
+overflow: auto;
+margin-top: 20px;
+}
+
+
+.left {
+
+float: left;
+
+}
+
+.right {
+
+    float: left;
+}
+
